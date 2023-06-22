@@ -1,5 +1,9 @@
 # LAB - Introduction to Containers
 
+Use PowerShell terminal to run the commands.
+In CMD, you'll need to use the corresponding command, e.g. `dir` for `ls`, `type` for `cat`, etc.
+The instructions use `code` (VS Code) as editor, but anything else can be used (notepad on Windows, nano on Linux, etc.) 
+
 If running on Linux, you may need to run the docker commands as root:
 
 ``` bash
