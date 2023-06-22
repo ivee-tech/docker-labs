@@ -66,6 +66,7 @@ docker run -d -p 80:80 mynginx
 ``` bash
 cd aspnetcore
 code Dockerfile
+dotnet publish -o published
 docker build -t myaspcoreapp:3.1 . 
 docker run -d -p 8090:80 myaspcoreapp:3.1
 ```
